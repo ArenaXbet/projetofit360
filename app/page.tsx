@@ -130,7 +130,7 @@ export default function ProjetoFit360() {
             Veja a experiência de clientes vivendo uma nova versão.
           </p>
         </div>
-        
+
         <div className="flex justify-center">
           <div className="relative w-full max-w-[520px] group">
             <div className="absolute -inset-1 bg-gradient-to-r from-green-500/20 to-green-400/10 rounded-[28px] blur-xl opacity-60 group-hover:opacity-100 transition duration-500"></div>
@@ -510,7 +510,7 @@ export default function ProjetoFit360() {
           </h3>
           <p className="text-zinc-400 text-lg max-w-2xl mx-auto">Veja o poder dos nossos suplementos premium.</p>
         </div>
-        
+
         <div className="flex justify-center">
           <div className="relative w-full max-w-[520px] group">
             <div className="absolute -inset-1 bg-gradient-to-r from-green-500/20 to-green-400/10 rounded-[28px] blur-xl opacity-60 group-hover:opacity-100 transition duration-500"></div>
@@ -542,7 +542,7 @@ export default function ProjetoFit360() {
 
         <div className="bg-zinc-950 border border-green-500/20 rounded-[32px] p-10 shadow-[0_0_60px_rgba(0,255,100,0.15)] relative overflow-hidden">
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(0,255,100,0.1),_transparent_70%)]"></div>
-          
+
           <div className="relative z-10 text-center">
             <div className="w-20 h-20 bg-green-500/10 border border-green-500/30 rounded-3xl mx-auto mb-6 flex items-center justify-center">
               <svg
@@ -562,9 +562,9 @@ export default function ProjetoFit360() {
             </div>
 
             <h4 className="text-2xl font-black mb-2">Suporte Oficial PROJETOFIT360</h4>
-            
-            <a 
-              href="mailto:suportefit24horas@gmail.com" 
+
+            <a
+              href="mailto:suportefit24horas@gmail.com"
               className="text-green-400 text-xl font-bold hover:text-green-300 transition mb-8 inline-block"
             >
               suportefit24horas@gmail.com
