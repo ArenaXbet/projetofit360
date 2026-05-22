@@ -70,7 +70,7 @@ export default function ProjetoFit360() {
             MAIS VENDIDO DO MOMENTO
           </div>
 
-          <h2 className="text-4xl md:text-7xl font-black leading-tight mb-8">
+          <h2 className="text-4xl md:text-7xl font-black leading-tight mb-8 break-words">
             RESULTADOS
             <span className="block text-green-400 drop-shadow-[0_0_30px_rgba(0,255,100,0.8)]">QUE VOCÊ</span>
             VÊ E SENTE.
