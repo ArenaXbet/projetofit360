@@ -352,7 +352,7 @@ export default function ProjetoFit360() {
             <div className="p-8">
               <span className="bg-emerald-500 text-black font-black px-4 py-2 rounded-full text-sm">DETOX PREMIUM</span>
 
-              <img src="/detox360.png" alt="Detox" className="w-full my-8 rounded-3xl" />
+              <img src="/detox-360.png" alt="Detox" className="w-full my-8 rounded-3xl" />
 
               <h4 className="text-4xl font-black mb-4">
                 DETOX <span className="text-emerald-400">360</span>
