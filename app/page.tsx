@@ -277,7 +277,7 @@ export default function ProjetoFit360() {
             <div className="p-8">
               <span className="bg-purple-500 text-white font-black px-4 py-2 rounded-full text-sm">PERFORMANCE</span>
 
-              <img src="/lipo-extremo.jpg" alt="Lipo Extremo" className="w-full my-8 rounded-3xl" />
+              <img src="/lipo-extremo.png" alt="Lipo Extremo" className="w-full my-8 rounded-3xl" />
 
               <h4 className="text-4xl font-black mb-4">
                 LIPO <span className="text-purple-400">EXTREMO</span>
