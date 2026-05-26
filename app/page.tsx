@@ -446,7 +446,7 @@ export default function ProjetoFit360() {
             </p>
 
             <div className="grid md:grid-cols-4 gap-6 mb-12">
-              {["+12.500 CLIENTES SATISFEITOS", "4,9★ AVALIAÇÃO REAL", "97% DE APROVAÇÃO", "ENTREGA RÁPIDA PARA TODO BRASIL"]"].map((item) => (
+              {["+12.500 CLIENTES SATISFEITOS", "4,9★ AVALIAÇÃO REAL", "97% DE APROVAÇÃO", "ENTREGA RÁPIDA PARA TODO BRASIL"].map((item) => (
                 <div key={item} className="bg-black/60 border border-green-500/10 rounded-3xl p-8 text-xl font-black">
                   {item}
                 </div>
