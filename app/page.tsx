@@ -464,7 +464,7 @@ export default function ProjetoFit360() {
       </section>
 
       <section id="faq" className="max-w-5xl mx-auto px-6 py-24">
-        <h3 className="text-5xl font-black text-center mb-16">
+        <h3 className="text-3xl md:text-5xl font-black text-center mb-16 break-words">
           PERGUNTAS <span className="text-green-400">FREQUENTES</span>
         </h3>
 
