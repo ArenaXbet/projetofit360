@@ -437,7 +437,7 @@ export default function ProjetoFit360() {
 
           <div className="relative z-10">
             <h3 className="text-3xl md:text-6xl font-black mb-6 break-words">
-              COMECE SUA <span className="text-green-400">TRANSFORMACAO</span>
+              COMECE SUA <span className="text-green-400">TRANSFORMAÇÃO</span>
             </h3>
 
             <p className="text-zinc-300 text-xl max-w-3xl mx-auto mb-10 leading-relaxed">
