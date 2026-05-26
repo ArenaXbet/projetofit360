@@ -179,7 +179,7 @@ export default function ProjetoFit360() {
               className="bg-zinc-950 border border-green-500/10 rounded-3xl p-8 hover:border-green-400/40 transition hover:-translate-y-2"
             >
               <div className="w-16 h-16 bg-green-500/10 rounded-2xl mb-6 flex items-center justify-center">
-               <img src="/logo.png" alt="ProjetoFit360" className="w-20 h-20 object-contain" />
+               <img src="/icon.png" alt="ProjetoFit360" className="w-20 h-20 object-contain" />
               </div>
               <h4 className="text-2xl font-black mb-4">{item.title}</h4>
               <p className="text-zinc-400 leading-relaxed">
