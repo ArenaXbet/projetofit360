@@ -532,8 +532,8 @@ export default function ProjetoFit360() {
       {/* Secao de Suporte */}
       <section id="suporte" className="max-w-5xl mx-auto px-6 py-24">
         <div className="text-center mb-12">
-          <h3 className="text-5xl font-black mb-4">
-            Precisa de ajuda? <span className="text-green-400">Nosso suporte esta pronto para voce.</span>
+          <h3 className="text-3xl md:text-5xl font-black mb-4 break-words">
+            Precisa de ajuda? <span className="text-green-400">Nosso suporte esta pronto para você.</span>
           </h3>
           <p className="text-zinc-400 text-lg max-w-3xl mx-auto">
             Atendimento rapido e suporte especializado para duvidas sobre pedidos, entregas e produtos.
