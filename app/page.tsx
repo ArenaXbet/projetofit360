@@ -436,7 +436,7 @@ export default function ProjetoFit360() {
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(0,255,100,0.15),_transparent_60%)]"></div>
 
           <div className="relative z-10">
-            <h3 className="text-6xl font-black mb-6">
+            <h3 className="text-3xl md:text-6xl font-black mb-6 break-words">
               COMECE SUA <span className="text-green-400">TRANSFORMACAO</span>
             </h3>
 
