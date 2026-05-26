@@ -505,8 +505,8 @@ export default function ProjetoFit360() {
       {/* Video Section 2 - Experiencia Premium */}
       <section className="max-w-7xl mx-auto px-6 py-20">
         <div className="text-center mb-12">
-          <h3 className="text-4xl md:text-5xl font-black mb-4">
-            TRANSFORMACAO <span className="text-green-400">EM ACAO</span>
+          <h3 className="text-3xl md:text-5xl font-black mb-4 break-words">
+            TRANSFORMAÇÃO <span className="text-green-400">EM AÇÃO</span>
           </h3>
           <p className="text-zinc-400 text-lg max-w-2xl mx-auto">Veja o poder dos nossos suplementos premium.</p>
         </div>
