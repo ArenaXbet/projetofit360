@@ -532,20 +532,7 @@ export default function ProjetoFit360() {
           
           <div className="relative z-10 text-center">
             <div className="w-20 h-20 bg-green-500/10 border border-green-500/30 rounded-3xl mx-auto mb-6 flex items-center justify-center">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="40"
-                height="40"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                className="text-green-400"
-              >
-                <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
-              </svg>
+             <img src="/icon.png" alt="ProjetoFit360" className="w-20 h-20 object-contain" />
             </div>
 
             <h4 className="text-2xl font-black mb-2">Suporte Oficial PROJETOFIT360</h4>
