@@ -202,7 +202,7 @@ export default function ProjetoFit360() {
             <div className="p-8">
               <span className="bg-green-500 text-black font-black px-4 py-2 rounded-full text-sm">MAIS VENDIDO</span>
 
-              <img src="/dtx-black.jpg" alt="DTX Black" className="w-full my-8 rounded-3xl" />
+              <img src="/dtx-black.png" alt="DTX Black" className="w-full my-8 rounded-3xl" />
 
               <h4 className="text-4xl font-black mb-4">
                 DTX <span className="text-green-400">BLACK</span>
