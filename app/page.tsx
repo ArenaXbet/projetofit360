@@ -565,7 +565,7 @@ export default function ProjetoFit360() {
             
             <a 
               href="mailto:suportefit24horas@gmail.com" 
-              className="text-green-400 text-xl font-bold hover:text-green-300 transition mb-8 inline-block"
+              className="text-green-400 text-sm md:text-xl font-bold hover:text-green-300 transition mb-8 inline-block break-all"
             >
               suportefit24horas@gmail.com
             </a>
