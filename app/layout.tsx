@@ -17,7 +17,6 @@ export const metadata: Metadata = {
   apple: '/favicon.ico',
 },
   },
-}
 
 
 export default function RootLayout({
