@@ -10,8 +10,14 @@ export const metadata: Metadata = {
   title: 'ProjetoFit360 | Suplementos Premium para Transformação Corporal',
   description: 'Suplementos premium para acelerar seu metabolismo, aumentar disposição e transformar seu corpo. DTX Black, Lipo Extremo e Detox 360. Entrega para todo o Brasil.',
   generator: 'ProjetoFit360',
-  
+
+  icons: {
+    icon: '/icon.png',
+    shortcut: '/icon.png',
+    apple: '/icon.png',
+  },
 }
+
 
 export default function RootLayout({
   children,
