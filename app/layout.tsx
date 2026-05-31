@@ -12,9 +12,10 @@ export const metadata: Metadata = {
   generator: 'ProjetoFit360',
 
   icons: {
-    icon: '/icon.png',
-    shortcut: '/icon.png',
-    apple: '/icon.png',
+  icon: '/favicon.ico',
+  shortcut: '/favicon.ico',
+  apple: '/favicon.ico',
+},
   },
 }
 
