@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'ProjetoFit360 | Suplementos Premium para Transformação Corporal',
-  description: 'Suplementos premium para acelerar seu metabolismo, aumentar disposição e transformar seu corpo. DTX Black, Lipo Extremo e Detox 360. Entrega para todo o Brasil.',
+  title: 'Projeto Fit 360 | DTX Black, Lipo Extremo e Detox Premium'
+  description: 'Os suplementos mais procurados para quem busca mais energia, foco, disposição e apoio ao emagrecimento. Compre com segurança e receba em todo o Brasil.'
   generator: 'ProjetoFit360',
 
   icons: {
