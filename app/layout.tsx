@@ -8,28 +8,30 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Projeto Fit 360 | DTX Black, Lipo Extremo e Detox Premium',
+
   description: 'Os suplementos mais procurados para quem busca mais energia, foco, disposição e apoio ao emagrecimento. Compre com segurança e receba em todo o Brasil.',
 
   keywords: [
-  'DTX Black',
-  'Lipo Extremo',
-  'Detox Premium',
-  'suplementos para emagrecer',
-  'emagrecimento',
-  'queima de gordura',
-  'detox',
-  'energia',
-  'foco',
-  'Projeto Fit 360'
-],
+    'DTX Black',
+    'Lipo Extremo',
+    'Detox Premium',
+    'suplementos para emagrecer',
+    'emagrecimento',
+    'queima de gordura',
+    'detox',
+    'energia',
+    'foco',
+    'Projeto Fit 360'
+  ],
+
   generator: 'ProjetoFit360',
 
   icons: {
-  icon: '/favicon.ico',
-  shortcut: '/favicon.ico',
-  apple: '/favicon.ico',
-},
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
   },
+}
 
 
 export default function RootLayout({
