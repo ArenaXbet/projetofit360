@@ -429,8 +429,9 @@ export default function ProjetoFit360() {
             </h3>
 
             <p className="text-zinc-300 text-xl max-w-3xl mx-auto mb-10 leading-relaxed">
-              Milhares de pessoas ja escolheram a PROJETOFIT360 para elevar sua autoestima e conquistar resultados
-              reais.
+              ⚠️ Não recebeu seu PDF?
+
+Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode sofrer atrasos temporários.
             </p>
 
             <div className="grid md:grid-cols-4 gap-6 mb-12">
