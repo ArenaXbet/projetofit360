@@ -321,7 +321,7 @@ export default function ProjetoFit360() {
                   href={lipoLinks.one}
                   className="block bg-zinc-900 border border-purple-500/20 p-4 rounded-2xl hover:border-purple-400 transition"
                 >
-                  1 Pote — Comece Agora
+                  1 Pote — Oferta Limitada
                 </a>
 
                 <a
