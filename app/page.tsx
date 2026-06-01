@@ -396,7 +396,7 @@ export default function ProjetoFit360() {
                   href={detoxLinks.one}
                   className="block bg-zinc-900 border border-emerald-500/20 p-4 rounded-2xl hover:border-emerald-400 transition"
                 >
-                  1 Pote — Comece Hoje
+                  1 Pote — Últimas Unidades
                 </a>
 
                 <a
