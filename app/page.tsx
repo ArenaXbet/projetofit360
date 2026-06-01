@@ -435,7 +435,8 @@ Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode s
             </p>
 
             <div className="grid md:grid-cols-4 gap-6 mb-12">
-              {["🔥 88 mil clientes já escolheram este produto", "4,9★ AVALIAÇÃO REAL", "97% DE APROVAÇÃO", "ENTREGA RÁPIDA PARA TODO BRASIL"].map((item) => (
+              {["🔥 88 mil clientes já escolheram este produto", "⭐ 4,9/5 de Avaliação Média
+👥 Mais de 83.000 Clientes Satisfeitos", "97% DE APROVAÇÃO", "ENTREGA RÁPIDA PARA TODO BRASIL"].map((item) => (
                 <div key={item} className="bg-black/60 border border-green-500/10 rounded-3xl p-8 text-xl font-black">
                   {item}
                 </div>
