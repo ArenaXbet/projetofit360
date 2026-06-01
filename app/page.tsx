@@ -246,7 +246,7 @@ export default function ProjetoFit360() {
                   href={dtxLinks.one}
                   className="block bg-zinc-900 border border-green-500/20 p-4 rounded-2xl hover:border-green-400 transition"
                 >
-                  1 Pote — R$137,00
+                  1 Pote — Comece Agora
                 </a>
 
                 <a
