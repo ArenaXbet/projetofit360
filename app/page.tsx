@@ -598,24 +598,17 @@ Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode s
             <Link href="/termos-de-uso" className="hover:text-green-400 transition">
               Termos de Uso
             </Link>
-            
-          </div>
-
-          <p className="text-zinc-600 text-sm">© 2026 PROJETOFIT360 — Endereço Comercial:
-Alphaville – Barueri/SP
-
-© 2026 PROJETOFIT360 — Todos os direitos reservados.</p>
-        </div><Link href="/termos-de-uso" className="hover:text-green-400 transition">
-  Termos de Uso
-</Link>
-
-<Link
+            <Link
   href="mailto:suportefit24horas@gmail.com?subject=Contato%20Projeto%20Fit%20360"
   className="hover:text-green-400 transition"
 >
   Contato
 </Link>
-      </footer>
+          </div>
+          <p className="text-zinc-600 text-sm">© 2026 PROJETOFIT360 — Endereço Comercial:
+Alphaville – Barueri/SP
+
+© 2026 PROJETOFIT360 — Todos os direitos reservados.</p>
+    
+
     </div>
-  )
-}
