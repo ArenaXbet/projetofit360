@@ -70,9 +70,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
-      <body
-        className={`${geist.className} antialiased`}
-      >
+      <body>
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
