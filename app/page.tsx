@@ -595,7 +595,7 @@ Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode s
             <Link href="/politica-de-privacidade" className="hover:text-green-400 transition">
               Politica de Privacidade
             </Link>
-            <Link href="#" className="hover:text-green-400 transition">
+            <Link href="/termos-de-uso" className="hover:text-green-400 transition">
               Termos de Uso
             </Link>
             <Link href="#" className="hover:text-green-400 transition">
