@@ -30,7 +30,35 @@ export const metadata: Metadata = {
     icon: '/favicon.ico',
     shortcut: '/favicon.ico',
     apple: '/favicon.ico',
-  },
+ icons: {
+  icon: '/favicon.ico',
+  shortcut: '/favicon.ico',
+  apple: '/favicon.ico',
+},
+
+metadataBase: new URL('https://www.projetofit360.com.br'),
+
+openGraph: {
+  title: 'Projeto Fit 360 | DTX Black, Lipo Extremo e Detox Premium',
+  description:
+    'Suplementos premium para acelerar seu metabolismo, aumentar disposição e transformar seu corpo.',
+  images: [
+    {
+      url: '/logo.png',
+      width: 1200,
+      height: 630,
+      alt: 'Projeto Fit 360',
+    },
+  ],
+},
+
+twitter: {
+  card: 'summary_large_image',
+  title: 'Projeto Fit 360',
+  description:
+    'Suplementos premium para acelerar seu metabolismo, aumentar disposição e transformar seu corpo.',
+  images: ['/logo.png'],
+},
 }
 
 
