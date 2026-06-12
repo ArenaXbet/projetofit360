@@ -592,7 +592,7 @@ Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode s
           </p>
 
           <div className="flex flex-wrap justify-center gap-8 text-zinc-400 mb-10">
-            <Link href="#" className="hover:text-green-400 transition">
+            <Link href="/politica-de-privacidade" className="hover:text-green-400 transition">
               Politica de Privacidade
             </Link>
             <Link href="#" className="hover:text-green-400 transition">
