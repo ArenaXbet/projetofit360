@@ -598,9 +598,7 @@ Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode s
             <Link href="/termos-de-uso" className="hover:text-green-400 transition">
               Termos de Uso
             </Link>
-            <Link href="#" className="hover:text-green-400 transition">
-              Contato
-            <Link
+          <Link
   href="mailto:suportefit24horas@gmail.com?subject=Contato%20Projeto%20Fit%20360"
   className="hover:text-green-400 transition"
 >
