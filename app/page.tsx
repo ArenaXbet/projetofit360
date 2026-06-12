@@ -522,7 +522,7 @@ Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode s
       <section id="suporte" className="max-w-5xl mx-auto px-6 py-24">
         <div className="text-center mb-12">
           <h3 className="text-3xl md:text-5xl font-black mb-4 break-words">
-            Precisa de ajuda? <span className="text-green-400">Nosso suporte esta pronto para você.</span>
+            Precisa de ajuda? <span className="text-green-400">Nosso suporte está pronto, para atender você.</span>
           </h3>
           <p className="text-zinc-400 text-lg max-w-3xl mx-auto">
             Atendimento rapido e suporte especializado para duvidas sobre pedidos, entregas e produtos.
