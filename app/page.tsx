@@ -591,24 +591,41 @@ Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode s
             qualquer suplementacao.
           </p>
 
-          <div className="flex flex-wrap justify-center gap-8 text-zinc-400 mb-10">
-            <Link href="/politica-de-privacidade" className="hover:text-green-400 transition">
-              Politica de Privacidade
-            </Link>
-            <Link href="/termos-de-uso" className="hover:text-green-400 transition">
-              Termos de Uso
-            </Link>
-            <Link
-  href="mailto:suportefit24horas@gmail.com?subject=Contato%20Projeto%20Fit%20360"
-  className="hover:text-green-400 transition"
->
-  Contato
-</Link>
-          </div>
-          <p className="text-zinc-600 text-sm">© 2026 PROJETOFIT360 — Endereço Comercial:
-Alphaville – Barueri/SP
+         <div className="flex flex-wrap justify-center gap-8 text-zinc-400 mb-10">
+  <Link
+    href="/politica-de-privacidade"
+    className="hover:text-green-400 transition"
+  >
+    Política de Privacidade
+  </Link>
 
-© 2026 PROJETOFIT360 — Todos os direitos reservados.</p>
-    
+  <Link
+    href="/termos-de-uso"
+    className="hover:text-green-400 transition"
+  >
+    Termos de Uso
+  </Link>
 
-    </div>
+  <a
+    href="mailto:suportefit24horas@gmail.com?subject=Contato%20Projeto%20Fit%20360"
+    className="hover:text-green-400 transition"
+  >
+    Contato
+  </a>
+</div>
+
+<p className="text-zinc-600 text-sm">
+  © 2026 PROJETOFIT360 — Endereço Comercial: Alphaville – Barueri/SP
+</p>
+
+<p className="text-zinc-600 text-sm mt-2">
+  © 2026 PROJETOFIT360 — Todos os direitos reservados.
+</p>
+
+           </div>
+</footer>
+
+</div>
+
+)
+}
