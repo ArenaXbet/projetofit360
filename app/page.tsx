@@ -194,7 +194,7 @@ export default function ProjetoFit360() {
       <section id="produtos" className="max-w-7xl mx-auto px-6 py-20">
         <div className="text-center mb-16">
           <h3 className="text-3xl md:text-5xl font-black mb-4 break-words">
-            <span className="text-green-400">🔥 COMPRE QUALQUER PRODUTO 🔥</span>
+            <span className="text-green-400">🔥 COMPRE NOSSOS PRODUTOS 🔥</span>
           </h3>
         </div>
 
