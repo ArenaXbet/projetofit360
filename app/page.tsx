@@ -615,7 +615,7 @@ Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode s
 </div>
 
 <p className="text-zinc-600 text-sm">
-  © 2026 PROJETOFIT360 — Endereço Comercial: Alphaville – Barueri/SP
+  Endereço Comercial: Alphaville – Barueri/SP
 </p>
 
 <p className="text-zinc-600 text-sm mt-2">
