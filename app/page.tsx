@@ -429,9 +429,7 @@ export default function ProjetoFit360() {
             </h3>
 
             <p className="text-zinc-300 text-xl max-w-3xl mx-auto mb-10 leading-relaxed">
-              ⚠️ Não recebeu seu PDF?
-
-Entre em contato com nosso suporte. Em períodos de alta demanda, o envio pode sofrer atrasos temporários.
+              ✨ Em breve, novos produtos exclusivos para ajudar você a alcançar seus objetivos. Fique ligado!
             </p>
 
             <div className="grid md:grid-cols-4 gap-6 mb-12">
