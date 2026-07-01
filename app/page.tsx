@@ -67,19 +67,18 @@ export default function ProjetoFit360() {
       <section className="relative max-w-7xl mx-auto px-6 py-24 grid lg:grid-cols-2 gap-16 items-center">
         <div>
           <div className="inline-flex items-center gap-2 bg-green-500/10 border border-green-500/30 text-green-400 px-4 py-2 rounded-full mb-8 text-sm font-bold">
-            ⭐ 4,9 de Avaliação Média
+             4,9 ⭐⭐⭐⭐⭐ de Avaliação Média
 👥 Mais de 83.000 Clientes Satisfeitos 🚚 Envio Seguro para Todo o Brasil
           </div>
 
           <h2 className="text-3xl md:text-7xl font-black leading-tight mb-8 break-words">
-            RESULTADOS
-            <span className="block text-green-400 drop-shadow-[0_0_30px_rgba(0,255,100,0.8)]">QUE VOCÊ</span>
-            VÊ E SENTE.
+            "Patrocinador Oficial
+            <span className="block text-green-400 drop-shadow-[0_0_30px_rgba(0,255,100,0.8)]">Menino Ney</span>
+            do ProjetoFit360".
           </h2>
 
           <p className="text-zinc-300 text-xl leading-relaxed mb-10 max-w-2xl">
-            Suplementos premium desenvolvidos para acelerar o metabolismo, aumentar disposição, reduzir retenção e
-            transformar sua rotina fitness com qualidade e segurança.
+            Fórmulas premium desenvolvidas para quem busca mais energia, foco e desempenho no dia a dia.
           </p>
 
           <div className="flex flex-wrap gap-5 mb-10">
