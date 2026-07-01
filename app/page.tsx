@@ -162,7 +162,7 @@ export default function ProjetoFit360() {
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
-            { title: "Metabolismo Turbo", icon: "M13 10V3L4 14h7v7l9-11h-7z" },
+            { title: "⭐⭐⭐⭐⭐ Ana Paula • São Paulo/SP", icon: "M13 10V3L4 14h7v7l9-11h-7z" },
             { title: "Mais Energia e Disposição", icon: "M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" },
             {
               title: "Redução de Inchaço",
