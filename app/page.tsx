@@ -67,7 +67,7 @@ export default function ProjetoFit360() {
       <section className="relative max-w-7xl mx-auto px-6 py-24 grid lg:grid-cols-2 gap-16 items-center">
         <div>
           <div className="inline-flex items-center gap-2 bg-green-500/10 border border-green-500/30 text-green-400 px-4 py-2 rounded-full mb-8 text-sm font-bold">
-            ⭐ 4,9/5 de Avaliação Média
+            ⭐ 4,9 de Avaliação Média
 👥 Mais de 83.000 Clientes Satisfeitos 🚚 Envio Seguro para Todo o Brasil
           </div>
 
