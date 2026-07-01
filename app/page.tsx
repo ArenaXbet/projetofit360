@@ -184,7 +184,7 @@ export default function ProjetoFit360() {
               </div>
               <h4 className="text-2xl font-black mb-4">{item.title}</h4>
               <p className="text-zinc-400 leading-relaxed">
-                Tecnologia premium fitness desenvolvida para elevar sua performance e resultados.
+                "Gostei muito da qualidade do produto e do atendimento. A entrega foi rápida e pretendo comprar novamente."
               </p>
             </div>
           ))}
