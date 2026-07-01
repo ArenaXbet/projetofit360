@@ -156,7 +156,7 @@ export default function ProjetoFit360() {
             RESULTADOS DOS <span className="text-green-400">NOSSOS CLIENTES.</span>
           </h3>
           <p className="text-zinc-400 text-lg max-w-3xl mx-auto">
-            Fórmulas premium com ingredientes selecionados para auxiliar na sua transformação.
+            Veja o que alguns clientes compartilharam sobre sua experiência com os produtos Projeto Fit 360.
           </p>
         </div>
 
