@@ -153,7 +153,7 @@ export default function ProjetoFit360() {
       <section id="beneficios" className="max-w-7xl mx-auto px-6 py-20">
         <div className="text-center mb-16">
           <h3 className="text-3xl md:text-5xl font-black mb-4 break-words">
-            RESULTADOS QUE <span className="text-green-400">TRANSFORMAM VIDAS</span>
+            RESULTADOS DOS <span className="text-green-400">NOSSOS CLIENTES.</span>
           </h3>
           <p className="text-zinc-400 text-lg max-w-3xl mx-auto">
             Fórmulas premium com ingredientes selecionados para auxiliar na sua transformação.
