@@ -72,9 +72,9 @@ export default function ProjetoFit360() {
           </div>
 
           <h2 className="text-3xl md:text-7xl font-black leading-tight mb-8 break-words">
-            RESULTADOS
-            <span className="block text-green-400 drop-shadow-[0_0_30px_rgba(0,255,100,0.8)]">QUE VOCÊ</span>
-            VÊ E SENTE.
+            "Patrocinador Oficial
+            <span className="block text-green-400 drop-shadow-[0_0_30px_rgba(0,255,100,0.8)]">Menino Ney</span>
+            do ProjetoFit360".
           </h2>
 
           <p className="text-zinc-300 text-xl leading-relaxed mb-10 max-w-2xl">
