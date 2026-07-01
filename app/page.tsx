@@ -162,8 +162,8 @@ export default function ProjetoFit360() {
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
-            { title: "⭐⭐⭐⭐⭐ Ana Paula • São Paulo/SP", icon: "M13 10V3L4 14h7v7l9-11h-7z" },
-            { title: "⭐⭐⭐⭐⭐ Carlos Henrique • Belo Horizonte/MG", icon: "M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" },
+            { title: "Ana Paula • São Paulo/SP", icon: "M13 10V3L4 14h7v7l9-11h-7z" },
+            { title: "Carlos Henrique • Belo Horizonte/MG", icon: "M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" },
             {
               title: "Redução de Inchaço",
               icon: "M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z",
