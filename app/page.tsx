@@ -161,34 +161,60 @@ export default function ProjetoFit360() {
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {[
-            { title: "Ana Paula • São Paulo/SP", icon: "M13 10V3L4 14h7v7l9-11h-7z" },
-            { title: "Carlos Henrique • Belo Horizonte/MG", icon: "M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" },
-            {
-              title: "Redução de Inchaço",
-              icon: "M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z",
-            },
-            { title: "Ingredientes Naturais", icon: "M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" },
-            { title: "Resultados Reais", icon: "M22 11.08V12a10 10 0 1 1-5.93-9.14" },
-            {
-              title: "Bem-Estar Completo",
-              icon: "M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z",
-            },
-          ].map((item) => (
-            <div
-              key={item.title}
-              className="bg-zinc-950 border border-green-500/10 rounded-3xl p-8 hover:border-green-400/40 transition hover:-translate-y-2"
-            >
-              <div className="w-16 h-16 bg-green-500/10 rounded-2xl mb-6 flex items-center justify-center">
-               <img src="/icon.png" alt="ProjetoFit360" className="w-20 h-20 object-contain" />
-              </div>
-              <h4 className="text-2xl font-black mb-4">{item.title}</h4>
-              <p className="text-zinc-400 leading-relaxed">
-                "Chegou tudo certinho, embalagem bem protegida e produto original. Recomendo a loja."
-              </p>
-            </div>
-          ))}
-        </div>
+  {[
+    {
+      title: "Ana Paula • São Paulo/SP",
+      description:
+        "Estava procurando suplementos de confiança e encontrei o Projeto Fit 360. A entrega foi muito rápida, tudo veio bem embalado e o atendimento respondeu minhas dúvidas rapidamente. Já virei cliente.",
+    },
+    {
+      title: "Carlos Henrique • Belo Horizonte/MG",
+      description:
+        "Comprei pela primeira vez e fiquei surpreso com a qualidade. Produto original, entrega antes do prazo e ótimo custo-benefício. Recomendo para quem busca segurança na compra.",
+    },
+    {
+      title: "Mariana Souza • Curitiba/PR",
+      description:
+        "Gostei muito da experiência de compra. O site é fácil de usar, o pedido chegou certinho e a embalagem veio muito bem protegida. Com certeza comprarei novamente.",
+    },
+    {
+      title: "Rafael Lima • Rio de Janeiro/RJ",
+      description:
+        "Atendimento excelente e entrega muito rápida. Recebi exatamente o que comprei e já indiquei a loja para alguns amigos.",
+    },
+    {
+      title: "Juliana Martins • Brasília/DF",
+      description:
+        "Achei a loja pesquisando na internet e resolvi testar. O processo de compra foi simples, recebi todas as atualizações do pedido e fiquei muito satisfeita.",
+    },
+    {
+      title: "Fernando Alves • Porto Alegre/RS",
+      description:
+        "Entrega dentro do prazo, produtos muito bem embalados e atendimento de qualidade. Hoje é uma das minhas lojas favoritas para comprar suplementos.",
+    },
+  ].map((item) => (
+    <div
+      key={item.title}
+      className="bg-zinc-950 border border-green-500/10 rounded-3xl p-8 hover:border-green-400/40 transition hover:-translate-y-2"
+    >
+      <div className="w-16 h-16 bg-green-500/10 rounded-2xl mb-6 flex items-center justify-center">
+        <img
+          src="/icon.png"
+          alt="ProjetoFit360"
+          className="w-20 h-20 object-contain"
+        />
+      </div>
+
+      <h4 className="text-2xl font-black mb-4">
+        {item.title}
+      </h4>
+
+      <p className="text-zinc-400 leading-relaxed">
+        {item.description}
+      </p>
+    </div>
+  ))}
+</div>
       </section>
 
       <section id="produtos" className="max-w-7xl mx-auto px-6 py-20">
