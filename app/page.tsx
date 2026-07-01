@@ -73,7 +73,7 @@ export default function ProjetoFit360() {
 
           <h2 className="text-3xl md:text-7xl font-black leading-tight mb-8 break-words">
             "Patrocinador Oficial
-            <span className="block text-green-400 drop-shadow-[0_0_30px_rgba(0,255,100,0.8)]">Menino Ney</span>
+            <span className="block text-green-400 drop-shadow-[0_0_30px_rgba(0,255,100,0.8)]">Menino Neymar</span>
              ProjetoFit360".
           </h2>
 
