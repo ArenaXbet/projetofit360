@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: 'Projeto Fit 360 | DTX Black, Lipo Extremo e Detox Premium',
 
   description:
-    'Os suplementos mais procurados para quem busca mais energia, foco, disposição e apoio ao emagrecimento. Compre com segurança e receba em todo o Brasil.',
+    'Os suplementos mais procurados para quem busca mais energia, foco, disposição e apoio ao emagrecimento. Compre com segurança e receba em todo o território Nacional e Internacional l.',
 
   keywords: [
     'DTX Black',
