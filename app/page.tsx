@@ -68,7 +68,7 @@ export default function ProjetoFit360() {
         <div>
           <div className="inline-flex items-center gap-2 bg-green-500/10 border border-green-500/30 text-green-400 px-4 py-2 rounded-full mb-8 text-sm font-bold">
              4,9 ⭐⭐⭐⭐⭐ de Avaliação Média
-👥 Mais de 83.000 Clientes Satisfeitos 🚚 Envio Seguro para Todo o Brasil
+👥 Mais de 83.586 Clientes Satisfeitos 🚚 Envio Seguro para Todo o Território Nacional e Internacional.
           </div>
 
           <h2 className="text-3xl md:text-7xl font-black leading-tight mb-8 break-words">
